@@ -1,5 +1,4 @@
-
-<h1 align="center">hello:D,there I'm Mayank Pandey</h1>
+<h1 align="center">hello :D ,there!</h1>
 - 🔭 I’m currently working on **DSA[c++]**
 
 - 👯 I’m looking to collaborate on **Fullstack Devlopment**
