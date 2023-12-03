@@ -1,4 +1,4 @@
-<h1>hello :D ,there!</h1>
+<h1>Hello there :D</h1>
 - 🔭 I’m currently working on <b>DSA[c++]</b>
 
 - 👯 I’m looking to collaborate on **Fullstack Devlopment**
