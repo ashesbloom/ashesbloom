@@ -1,4 +1,4 @@
-<!-- <h1>Hello there :D</h1>
+ <h1>Hello there :D</h1>
 - 🔭 I’m currently working on <b>DSA[c++]</b>
 
 - 👯 I’m looking to collaborate on **Fullstack Devlopment**
@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashesbloom&show_icons=true&locale=en&layout=compact" alt="ashesbloom" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashesbloom&show_icons=true&locale=en" alt="ashesbloom" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashesbloom&show_icons=true&locale=en" alt="ashesbloom" /></p> 
 
