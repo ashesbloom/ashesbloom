@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashesbloom&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-### ;P Dev Meme
+### Dev Meme ;P 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
