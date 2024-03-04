@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashesbloom&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
 ### Dev Meme ;P 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashesbloom&icon=3&color=2)](https://visitcount.itsvg.in)
