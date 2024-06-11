@@ -1,5 +1,5 @@
 # Description:
-🔭 Currently working on <b> Python automation (DBMS)</b><br><br>👯 Looking to collaborate on <b> Web Development</b><br> <br>🍀 Scratching my head on <b> Data algorithm and structure </b><br><br>📫 Contact mayankpandeydk123@gmail.com<br>
+🔭 Currently working on <b> Python automation </b><br><br>👯 Looking to collaborate on <b> Web Development</b><br> <br>🍀 Scratching my head on <b> Data algorithm and structure </b><br><br>📫 Contact mayankpandeydk123@gmail.com<br>
 
 
 ## 🌐 Socials:
