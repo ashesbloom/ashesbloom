@@ -18,9 +18,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashesbloom&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-### Dev Meme ;P 
-<p align="center"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
+### ⟨q⟩Random Dev Quote⟨/q⟩
+<p align="center"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'/></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ashesbloom&icon=3&color=4)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
 
