@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/ashesbloom/ashesbloom/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ashesbloom/ashesbloom/output/snake.svg" alt="Snake animation" />
+
+###
 
 ```c++
 const description = {
@@ -40,5 +42,3 @@ const description = {
        </span>
      </div>
 </div>
-
-
