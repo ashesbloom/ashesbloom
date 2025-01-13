@@ -1,6 +1,6 @@
 ```c++
 const description = {
-     Currently working on: 'Python automation',
+     Currently working on: 'GSOC',
      Looking to collaborate on: 'Web Development',
      Scratching my head on: 'Data structures and Algorithms',
      Contact: 'mayankpandeydk123@gmail.com'
@@ -27,13 +27,15 @@ const description = {
 <p align="center"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'/></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashesbloom&icon=3&color=4)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span style="text-align: left;">
+    <img src="https://profile-counter.glitch.me/ashesbloom/count.svg" alt="Visitor Count" />
+  </span>
+  <span style="text-align: right;">
+    <a href="https://github.com/ashesbloom">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="38" height="38" />
+    </a>
+  </span>
+</div>
 
 
