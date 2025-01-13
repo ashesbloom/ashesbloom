@@ -23,19 +23,20 @@ const description = {
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashesbloom&theme=apprentice&no-frame=true&no-bg=false&margin-w=4)
 
-### ⟨q⟩Random Dev Quote⟨/q⟩
+---
 <p align="center"><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'/></p>
 
----
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <span style="text-align: left;">
-    <img src="https://profile-counter.glitch.me/ashesbloom/count.svg" alt="Visitor Count" />
-  </span>
-  <span style="text-align: right;">
-    <a href="https://github.com/ashesbloom">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="38" height="38" />
-    </a>
-  </span>
+<div align="center">
+     <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+       <span style="text-align: left;">
+         <img src="https://profile-counter.glitch.me/ashesbloom/count.svg" alt="Visitor Count" />
+       </span>
+       <span style="text-align: right;">
+         <a href="https://github.com/ashesbloom">
+           <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="38" height="38" />
+         </a>
+       </span>
+     </div>
 </div>
 
 
