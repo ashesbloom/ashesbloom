@@ -20,7 +20,6 @@ const description = {
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ashesbloom&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashesbloom&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashesbloom&theme=shadow_red&hide_border=false)
 
 
@@ -33,7 +32,7 @@ const description = {
 <div align="center">
      <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
        <span style="text-align: left;">
-         <img src="https://profile-counter.glitch.me/ashesbloom/count.svg" alt="Visitor Count" />
+         <img src="https://profile-counter.deno.dev/ashesbloom/count.svg" alt="Key:: Visitor's Count" />
        </span>
        <span style="text-align: right;">
          <a href="https://github.com/ashesbloom">
